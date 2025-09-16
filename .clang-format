@@ -1,0 +1,11 @@
+AlignConsecutiveDeclarations: Consecutive
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 120
+IndentAccessModifiers: false
+AccessModifierOffset: 0
+NamespaceIndentation: None
+PointerAlignment: Left
+ReferenceAlignment: Pointer
+QualifierAlignment: Right

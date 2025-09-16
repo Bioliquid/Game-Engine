@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# Directories
+bin
+build
+out
+build
+temp
+.vs
+.vscode
+.editorconfig
+.idea
